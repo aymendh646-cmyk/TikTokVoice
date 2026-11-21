@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">تحكم تيك توك</string>
+    <string name="service_desc">يستمع لأوامرك الصوتية ويمرر الفيديوهات</string>
+</resources>
